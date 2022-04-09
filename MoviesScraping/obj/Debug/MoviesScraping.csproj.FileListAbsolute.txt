@@ -1,0 +1,70 @@
+C:\Users\MaCaraas\source\repos\MoviesScraping\MoviesScraping\obj\Debug\MoviesScraping.csprojAssemblyReference.cache
+C:\Users\MaCaraas\source\repos\MoviesScraping\MoviesScraping\bin\Debug\MoviesScraping.exe.config
+C:\Users\MaCaraas\source\repos\MoviesScraping\MoviesScraping\bin\Debug\MoviesScraping.exe
+C:\Users\MaCaraas\source\repos\MoviesScraping\MoviesScraping\bin\Debug\MoviesScraping.pdb
+C:\Users\MaCaraas\source\repos\MoviesScraping\MoviesScraping\bin\Debug\HtmlAgilityPack.dll
+C:\Users\MaCaraas\source\repos\MoviesScraping\MoviesScraping\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\MaCaraas\source\repos\MoviesScraping\MoviesScraping\bin\Debug\HtmlAgilityPack.xml
+C:\Users\MaCaraas\source\repos\MoviesScraping\MoviesScraping\obj\Debug\MoviesScraping.csproj.CopyComplete
+C:\Users\MaCaraas\source\repos\MoviesScraping\MoviesScraping\obj\Debug\MoviesScraping.exe
+C:\Users\MaCaraas\source\repos\MoviesScraping\MoviesScraping\obj\Debug\MoviesScraping.pdb
+C:\Users\MaCaraas\source\repos\MoviesScraping\MoviesScraping\bin\Debug\ClassLibrary1.dll
+C:\Users\MaCaraas\source\repos\MoviesScraping\MoviesScraping\bin\Debug\ClassLibrary1.pdb
+C:\Users\MaCaraas\source\repos\MoviesScraping\MoviesScraping\bin\Debug\EntityFramework.dll
+C:\Users\MaCaraas\source\repos\MoviesScraping\MoviesScraping\bin\Debug\ClassLibrary1.dll.config
+C:\Users\MaCaraas\source\repos\MoviesScraping\MoviesScraping\bin\Debug\EntityFramework.xml
+C:\Users\MaCaraas\source\repos\MoviesScraping\MoviesScraping\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MaCaraas\source\repos\MoviesScraping\MoviesScraping\bin\Debug\EntityFramework.SqlServer.xml
+E:\backup\moviesScra[\MoviesScraping3\MoviesScraping\bin\Debug\MoviesScraping.exe.config
+E:\backup\moviesScra[\MoviesScraping3\MoviesScraping\bin\Debug\MoviesScraping.exe
+E:\backup\moviesScra[\MoviesScraping3\MoviesScraping\bin\Debug\MoviesScraping.pdb
+E:\backup\moviesScra[\MoviesScraping3\MoviesScraping\bin\Debug\ClassLibrary1.dll
+E:\backup\moviesScra[\MoviesScraping3\MoviesScraping\bin\Debug\EntityFramework.dll
+E:\backup\moviesScra[\MoviesScraping3\MoviesScraping\bin\Debug\EntityFramework.SqlServer.dll
+E:\backup\moviesScra[\MoviesScraping3\MoviesScraping\bin\Debug\HtmlAgilityPack.dll
+E:\backup\moviesScra[\MoviesScraping3\MoviesScraping\bin\Debug\ClassLibrary1.pdb
+E:\backup\moviesScra[\MoviesScraping3\MoviesScraping\bin\Debug\ClassLibrary1.dll.config
+E:\backup\moviesScra[\MoviesScraping3\MoviesScraping\bin\Debug\EntityFramework.xml
+E:\backup\moviesScra[\MoviesScraping3\MoviesScraping\bin\Debug\EntityFramework.SqlServer.xml
+E:\backup\moviesScra[\MoviesScraping3\MoviesScraping\bin\Debug\HtmlAgilityPack.pdb
+E:\backup\moviesScra[\MoviesScraping3\MoviesScraping\bin\Debug\HtmlAgilityPack.xml
+E:\backup\moviesScra[\MoviesScraping3\MoviesScraping\obj\Debug\MoviesScraping.csprojAssemblyReference.cache
+E:\backup\moviesScra[\MoviesScraping3\MoviesScraping\obj\Debug\MoviesScraping.csproj.CopyComplete
+E:\backup\moviesScra[\MoviesScraping3\MoviesScraping\obj\Debug\MoviesScraping.exe
+E:\backup\moviesScra[\MoviesScraping3\MoviesScraping\obj\Debug\MoviesScraping.pdb
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\MoviesScraping.exe.config
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\MoviesScraping.exe
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\MoviesScraping.pdb
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\ClassLibrary1.dll
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\EntityFramework.dll
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\EntityFramework.SqlServer.dll
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\HtmlAgilityPack.dll
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\ClassLibrary1.pdb
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\ClassLibrary1.dll.config
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\EntityFramework.xml
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\EntityFramework.SqlServer.xml
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\HtmlAgilityPack.pdb
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\HtmlAgilityPack.xml
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\MoviesScraping\obj\Debug\MoviesScraping.csproj.AssemblyReference.cache
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\MoviesScraping\obj\Debug\MoviesScraping.csproj.CoreCompileInputs.cache
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\MoviesScraping\obj\Debug\MoviesScraping.csproj.CopyComplete
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\MoviesScraping\obj\Debug\MoviesScraping.exe
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\MoviesScraping\obj\Debug\MoviesScraping.pdb
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\MoviesScraping.exe.config
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\MoviesScraping.exe
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\MoviesScraping.pdb
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\ClassLibrary1.dll
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\EntityFramework.dll
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\HtmlAgilityPack.dll
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\ClassLibrary1.dll.config
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\EntityFramework.xml
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\MoviesScraping\bin\Debug\HtmlAgilityPack.xml
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\MoviesScraping\obj\Debug\MoviesScraping.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\MoviesScraping\obj\Debug\MoviesScraping.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\MoviesScraping\obj\Debug\MoviesScraping.csproj.CopyComplete
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\MoviesScraping\obj\Debug\MoviesScraping.exe
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\MoviesScraping\obj\Debug\MoviesScraping.pdb

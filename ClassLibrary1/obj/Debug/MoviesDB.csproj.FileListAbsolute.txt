@@ -1,0 +1,53 @@
+C:\Users\MaCaraas\source\repos\MoviesScraping\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\MaCaraas\source\repos\MoviesScraping\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\MaCaraas\source\repos\MoviesScraping\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\MaCaraas\source\repos\MoviesScraping\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\MaCaraas\source\repos\MoviesScraping\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\MaCaraas\source\repos\MoviesScraping\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\MaCaraas\source\repos\MoviesScraping\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MaCaraas\source\repos\MoviesScraping\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\MaCaraas\source\repos\MoviesScraping\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MaCaraas\source\repos\MoviesScraping\ClassLibrary1\obj\Debug\MoviesDB.csproj.CopyComplete
+C:\Users\MaCaraas\source\repos\MoviesScraping\ClassLibrary1\obj\Debug\ClassLibrary1.Migrations.Initial.resources
+C:\Users\MaCaraas\source\repos\MoviesScraping\ClassLibrary1\obj\Debug\MoviesDB.csproj.GenerateResource.cache
+E:\backup\moviesScra[\MoviesScraping3\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+E:\backup\moviesScra[\MoviesScraping3\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\backup\moviesScra[\MoviesScraping3\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\backup\moviesScra[\MoviesScraping3\ClassLibrary1\bin\Debug\EntityFramework.dll
+E:\backup\moviesScra[\MoviesScraping3\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+E:\backup\moviesScra[\MoviesScraping3\ClassLibrary1\bin\Debug\EntityFramework.xml
+E:\backup\moviesScra[\MoviesScraping3\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+E:\backup\moviesScra[\MoviesScraping3\ClassLibrary1\obj\Debug\MoviesDB.csprojAssemblyReference.cache
+E:\backup\moviesScra[\MoviesScraping3\ClassLibrary1\obj\Debug\ClassLibrary1.Migrations.Initial.resources
+E:\backup\moviesScra[\MoviesScraping3\ClassLibrary1\obj\Debug\MoviesDB.csproj.GenerateResource.cache
+E:\backup\moviesScra[\MoviesScraping3\ClassLibrary1\obj\Debug\MoviesDB.csproj.CopyComplete
+E:\backup\moviesScra[\MoviesScraping3\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\backup\moviesScra[\MoviesScraping3\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\ClassLibrary1\bin\Debug\EntityFramework.dll
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\ClassLibrary1\bin\Debug\EntityFramework.xml
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\ClassLibrary1\obj\Debug\MoviesDB.csproj.AssemblyReference.cache
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\ClassLibrary1\obj\Debug\ClassLibrary1.Migrations.Initial.resources
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\ClassLibrary1\obj\Debug\MoviesDB.csproj.GenerateResource.cache
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\ClassLibrary1\obj\Debug\MoviesDB.csproj.CoreCompileInputs.cache
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\backup\moviesScra[\MoviesScraping3 - Αντιγραφή\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\ClassLibrary1\obj\Debug\MoviesDB.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\ClassLibrary1\obj\Debug\ClassLibrary1.Migrations.Initial.resources
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\ClassLibrary1\obj\Debug\MoviesDB.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\ClassLibrary1\obj\Debug\MoviesDB.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\ClassLibrary1\obj\Debug\MoviesDB.csproj.CopyComplete
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\user\OneDrive\Υπολογιστής\MoviesScraping3 - Αντιγραφή\ClassLibrary1\obj\Debug\ClassLibrary1.Migrations.MovieIdAdded.resources
